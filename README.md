@@ -19,8 +19,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
     Formatting collection view grid was a bit tricky in order to get everything aligned evenly. 
     Each section/animation is its own code and information acting independelty from each other. 
-    Did not realize that until after doing this. 
-
+ 
 ---
 
 ## Flix Part 1
